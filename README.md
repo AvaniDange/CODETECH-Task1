@@ -38,3 +38,5 @@ The primary objective of the wireframing project is to design a user-friendly pl
 3. Iterative design ensures alignment with user needs and store requirements.  
 
 
+![Screenshot 2025-01-04 203309](https://github.com/user-attachments/assets/e17209b5-932d-4294-ab30-db0b2babbe08)
+
