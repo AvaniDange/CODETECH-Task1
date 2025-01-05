@@ -25,7 +25,6 @@ The primary objective of the wireframing project is to design a user-friendly pl
 ### Key Activities  
 1. Map user journeys for store owners and renters.  
 2. Design screens for listing, browsing, and booking items.  
-3. Test prototypes for smooth navigation and functionality.  
 
 ### Technology Used: Figma  
 1. Design collaborative, scalable wireframes for multi-user interfaces.  
