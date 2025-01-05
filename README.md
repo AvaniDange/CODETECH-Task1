@@ -1,7 +1,11 @@
 **Name:** AVANI DANGE
+
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:**  CT08FDB
+
 **Domain:** UI/UX DESIGN
+
 **Duration:** December,2024 to January,2025
 
 ## Overview of the Project
@@ -9,7 +13,7 @@
 
 ## Rental Platform for Stores
 Wireframing focuses on creating a seamless interface for stores to list rentals and users to browse and book items via the 3rd party platform.
-## Objective
+### Objective
 
 The primary objective of the wireframing project is to design a user-friendly platform that simplifies the rental process for stores and customers. It aims to provide stores with an efficient onboarding process and intuitive tools for managing their rental listings. Additionally, the platform focuses on enhancing the user experience by enabling seamless browsing, filtering, and booking of rental items, fostering a reliable connection between stores and customers.
 
